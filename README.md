@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá, Eu sou o Eduardo Oliveira👋
+📚 Estudo Análise de Desenvolvimento de Sistemas
+
+💻Atualmente faço Estágio de T.I
+
+🤖E-mail: dudu41499@gmail.com
+
 
 <!--
 **Dudu7os/Dudu7os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
